@@ -1,0 +1,11 @@
+
+public class Control {
+
+	public static void main(String[] args) {
+		byte a;
+		byte b=0b01111111;
+		//System.out.println(Integer.toBinaryString(b));
+		System.out.println((byte)b);
+	}
+
+}
