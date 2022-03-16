@@ -4,7 +4,6 @@ public class Sum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a =60, b=70, c=80;
-		System.out.println("test");
 		int d = 50; 
 		int e = 30;
 		int sum = 0;
